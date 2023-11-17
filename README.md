@@ -34,20 +34,18 @@ Moving should be an exciting adventure! At Move It, we aim to revolutionize your
 ## Carousel of Joy 🎉
 Swipe through our delightful carousel featuring the joy of moving with Move It!
 
-![Family](./imgs/family.jpg)
-![Furry Friend](./imgs/dog.jpg)
-![Couple](./imgs/couple.jpg)
+![Family](https://github.com/YawBoah/Move-It-Right/assets/126890146/f3fc31da-4a66-4344-9723-b60e43aa31db)
+![Furry Friend](https://github.com/YawBoah/Move-It-Right/assets/126890146/0a436fae-6f6e-49ab-bc03-78c8b65ee1d1)
+![Couple](https://github.com/YawBoah/Move-It-Right/assets/126890146/4e55da17-8586-4265-901b-53b0c9d373e4)
+![Footer](https://github.com/YawBoah/Move-It-Right/assets/126890146/2457a9a5-f857-4963-ae16-2421568930de)
 
 ## Stay Connected 🌐
-
 Subscribe to our newsletter for a monthly dose of excitement! 🎉
 
 ## Contributing 🤝
-
 We welcome contributions to enhance the Move It experience. Fork our repository and make your mark!
 
 ## License 📜
-
 © 2023 Move It, Inc. All rights reserved.
 
 Connect with us on social media:
