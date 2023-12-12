@@ -47,4 +47,12 @@ Connect with us on social media:
 - [Instagram](#)
 - [Facebook](#)
 
+## 🌟Acknowledgement 🌟
+
+A heartfelt thank you to the amazing Dr. Angela Yu, my beacon of guidance and inspiration throughout the Udemy Complete Web Development Bootcamp! 🚀 Your unparalleled expertise, unwavering support, and dynamic teaching style have been the driving forces behind my journey into the world of web development. 🌐💻
+
+Your commitment to empowering students with practical knowledge, coupled with a touch of humor, has made learning an exhilarating adventure. 🎓💡 I am truly grateful for the wealth of skills and confidence your course has bestowed upon me. 🙏✨
+
+Here's to the coding maestro, Dr. Angela Yu, for transforming the complex into the comprehensible and turning dreams of web mastery into reality! 🎉👩‍💻 #ForeverGrateful #WebDevelopmentGuru
+
 Move It Right - Where Every Move is a Joyful Adventure! 🚚💨
