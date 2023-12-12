@@ -55,4 +55,4 @@ Your commitment to empowering students with practical knowledge, coupled with a 
 
 Here's to the coding maestro, Dr. Angela Yu, for transforming the complex into the comprehensible and turning dreams of web mastery into reality! 🎉👩‍💻 #ForeverGrateful #WebDevelopmentGuru
 
-Move It Right - Where Every Move is a Joyful Adventure! 🚚💨
+**Move It Right - Where Every Move is a Joyful Adventure!** 🚚💨
